@@ -1,4 +1,4 @@
-```python
+
 def validasi_input():
     """
     Fungsi untuk memvalidasi input data pendaftaran.
@@ -22,7 +22,6 @@ def validasi_input():
         return False
 
     return True
-````
 
 if __name__ == "__main__":
     if validasi_input():
